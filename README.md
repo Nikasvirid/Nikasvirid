@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Redux and Node.JS <br>💬 Ask me anything about front-end web development and my projects<br>⚡
 
-### 📌 Check out my portfolio:
+### 📌 Check out my simple projects:
 [simple_form_registration]( https://storied-cobbler-44fd17.netlify.app)<br>
 [API_recipie](https://marvelous-lily-2e13ec.netlify.app)<br>
 [virtual_keyboard](https://Nikasvirid.github.io/keyBoard_virtual)<br>
