@@ -1,6 +1,6 @@
 ### Hi there 👋I`m Veronika
 
-🌱 I’m currently learning Redux and Node.JS <br>💬 Ask me anything about front-end web development and my projects<br>⚡
+🌱 I’m currently learning Angular <br>💬 Ask me anything about front-end web development and my projects<br>⚡
 
 ### 📌 Check out my simple projects:
 [simple_form_registration]( https://storied-cobbler-44fd17.netlify.app)<br>
